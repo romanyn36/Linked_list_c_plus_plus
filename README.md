@@ -2,7 +2,6 @@
  all liked list methods
 
     1-add_first()
-
     2-add_last()
     3-add_after(, )
     4-delete_()
